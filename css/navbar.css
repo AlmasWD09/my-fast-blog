@@ -1,6 +1,6 @@
 
 .navbar{
-   /* background-color: gray; */
+   background-color:var(--primarylight);
 }
 .navbar__box{
     display: flex;

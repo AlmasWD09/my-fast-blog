@@ -1,13 +1,12 @@
 
 .banner__box{
-    border: 2px solid salmon;
     height: 700px;
     /* background-image: url(/images/banner01.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center; */
     position: relative;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 .banner__exercise img{
     position: absolute;
