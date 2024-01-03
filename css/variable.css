@@ -1,0 +1,12 @@
+
+:root{
+    --primary:green;
+    --primarylight:rgb(129, 191, 129);
+    --defaultWhite:#ffff;
+    --poppins:'Poppins';
+    --reguler:400;
+    --medium:500;
+    --semibold:600;
+    --bold:700;
+    --extrabold:800;
+}
