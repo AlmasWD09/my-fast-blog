@@ -1,8 +1,9 @@
 
 :root{
-    --primary:green;
-    --primarylight:rgb(129, 191, 129);
+    --primary:#fc4475;
+    --primarylight:#f4c2c2;
     --defaultWhite:#ffff;
+    --defaultBlack:#0c020287;
     --sectionGap:30px;
     --poppins:'Poppins';
     --reguler:400;

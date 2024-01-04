@@ -1,0 +1,28 @@
+
+.footer{
+margin-top: var(--sectionGap);
+}
+.footer__part{
+    height: 200px;
+    display: flex;
+    justify-content:space-around;
+    background-color: var(--primarylight);
+    cursor: pointer;
+}
+.footer__logo{
+    width: 250px;
+}
+.footer__links{
+    
+}
+.footer__support{
+
+}
+.footer__information{
+
+}
+h1{
+    margin-top: 10px;
+    margin-bottom: 25px;
+    cursor:auto;
+}

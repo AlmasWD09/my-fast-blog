@@ -12,14 +12,14 @@
     font-size: 32px;
     font-weight:var(--semibold);
     text-transform: uppercase;
+    cursor: pointer;
 }
-.navbar__logo span{
-    color: var(--primary);
-}
+
 .navbar__items{
     font-family: var(--poppins);
     font-size:16px;
     font-weight: var(--reguler);
+    cursor: pointer;
 }
 .navbar__item{
     display: flex; 
@@ -27,6 +27,7 @@
     align-items: center;
     column-gap: 30px;
     list-style-type: none;
+    color: var(--defaultWhite);
 }
 .navbar__button{
     margin-left: 70px;

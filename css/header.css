@@ -1,0 +1,13 @@
+.header{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color:gray;
+}
+.header__marque{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    background-color:#7ecf60;
+    color: var(--defaultWhite);
+}

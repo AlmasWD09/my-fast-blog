@@ -1,0 +1,46 @@
+.theraphy{
+    background-color: var(--primarylight);
+    margin-top: var(--sectionGap);
+    padding: 10px 0px;
+}
+.theraphy__title{
+    text-align: center;
+    text-decoration: underline var(--defaultBlack);
+    text-decoration-thickness: 5px;
+    text-underline-offset: 15px;
+}
+.theraphy__cards{
+    height: 310px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.theraphy__cards img{
+    width:80px;
+    height:80px;
+    
+}
+.theraphy__cardOne{
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    padding-top:20px;
+    background-color:var(--defaultBlack);
+    border-radius: 5px;
+}
+.theraphy__cardTwo{
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    padding-top:20px;
+    background-color:var(--defaultBlack);
+    border-radius: 5px;
+}
+.theraphy__cardThree{
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    padding-top:20px;
+    background-color:var(--defaultBlack);
+    border-radius: 5px;
+}
